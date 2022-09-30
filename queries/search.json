@@ -1,0 +1,11 @@
+{
+    "query": {
+        "match": {
+            "word": {
+                "query": "acbelegaje",
+                "fuzziness": "AUTO"
+            }
+        }
+    }
+}
+
